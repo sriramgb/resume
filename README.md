@@ -2,7 +2,7 @@
 my_resume
 Sriram Ganapati Bhagwat
 Boston, MA 02215	|	+1 (617)-756-9142
-bhagwat.sr@northeastern.edu |https://drive.google.com/uc?export=download&id=1BpzbgQKMFVvHDfVwhKF1LuHVH7sKS9o3|
+bhagwat.sr@northeastern.edu |https://www.linkedin.com/in/sriramgb/|
 
 EDUCATION
  
